@@ -2,6 +2,10 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+# Gem-based method
+gem "minimal-mistakes-jekyll"
+
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
