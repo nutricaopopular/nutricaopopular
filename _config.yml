@@ -109,6 +109,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/gysantos.nutri"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/gyslane-santos-2b867b48"
+    - label: "Lattes"
+      icon: "fab fa-fw fa-file-user"
+      url: "http://lattes.cnpq.br/4985740010790392"
 
 # Site Footer
 footer:
@@ -122,6 +128,12 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/gysantos.nutri"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/gyslane-santos-2b867b48"
+    - label: "Lattes"
+      icon: "fab fa-fw fa-file-user"
+      url: "http://lattes.cnpq.br/4985740010790392"
 
 defaults:
   # _posts
