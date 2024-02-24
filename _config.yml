@@ -149,3 +149,16 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Collections
+# collections_dir: textos
+collections:
+  textos:
+    output: true
+    permalink: /:collection/:path/
+  artigos:
+    output: true
+    permalink: /:collection/:path/
+  recursos:
+    output: true
+    permalink: /:collection/:path/
