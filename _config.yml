@@ -154,6 +154,36 @@ defaults:
     values:
       layout: single
       author_profile: true
+   # recursos
+  - scope:
+      path: ""
+      type: recursos
+    values:
+      layout: splash
+      classes: wide
+      author_profile: false
+      share: false
+      related: false
+   # recursos
+  - scope:
+      path: ""
+      type: artigos
+    values:
+      layout: splash
+      classes: wide
+      author_profile: false
+      share: false
+      related: false
+   # recursos
+  - scope:
+      path: ""
+      type: textos
+    values:
+      layout: splash
+      classes: wide
+      author_profile: false
+      share: false
+      related: false
 
 category_archive:
   type: liquid
