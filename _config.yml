@@ -12,6 +12,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
+theme: minimal-mistakes-jekyll
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
@@ -91,9 +92,7 @@ plugins:
 author:
   name   : "Gyslane Santos"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "CRN-3 60368
-📙Aprimoramento em Nutrição Clínica
-👩‍⚕️Atendimento Nutricional | 📍Guarujá"
+  bio    : "Aprimoramento em Nutrição Clínica<br> Atendimento Nutricional"
   location         : "São Paulo"
   email            :
   links:
