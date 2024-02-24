@@ -1,8 +1,8 @@
 ---
 permalink: /about/
-title: "Nutricionista Gyslane Santos"
+title: " Dra. Gyslane Santos"
 ---
-# Dra. Gyslane Maria dos Santos
+
 Nutricionista formada em 2019, com pós-graduação em atendimento clínico e especialização em Nutrição clínica e ambulatorial. 
 - Aprimoramento em Nutrição Clínica
 - Atendimento Nutricional
@@ -24,6 +24,7 @@ Ao longo da minha carreira eu desenvolvi atividades em diversos campos da nutri�
 |2018|UAN controle  produção, treinamento de funcionários<br> Casa Grande Hotel (Guarujá)|
 
 # Formação Acadêmica
+
 |Período|Descrição|
 |---------|---------|
 |2020-2022|Especialização em Nutrição Clínica e Ambulatorial. (Carga Horária: 520h).<br> Centro Universitário Lusíada, UNILUS, Brasil.<br> Título: Uso terapeutico de probióticos na doença de parkinson.<br> Orientador: Giovana Gonçalves Jamar de Queiroz.|
@@ -31,6 +32,7 @@ Ao longo da minha carreira eu desenvolvi atividades em diversos campos da nutri�
 |2013-2019|Graduação em Nutrição.<br>Universidade Paulista, UNIP, Brasil.<br>Título: INFLUENCIAS NUTRICIONAIS NO DESENVOLVIMENTO DO LABIO LEPORINO.<br>Orientador: Annete Bressam Marum.|
 
 # Formação Complementar
+
 |Período|Descrição|
 |---------|---------|
 |2023-2023| Tipificação e tramitação da pesquisa. (Carga horária: 2h).<br> Hospital Moinhos de Vento, EDUCA CEPS, Brasil.|
