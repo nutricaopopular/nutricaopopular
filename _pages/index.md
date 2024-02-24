@@ -13,21 +13,21 @@ excerpt: >
   Nutrição sem Complicação!<br />
   <small><a href="www.nutricaopopular.com.br">nutricaopopular.com.br</a></small>
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: "https://images.unsplash.com/reserve/tHTHup3YTN6XsLwf43vY_IMG_8003.jpg?q=80&w=500&h=300&auto=format&fit=crop"
     alt: "Artigos"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/artigos/"
+    title: "Artigos"
+    excerpt: "Artigos sobre Nutrição"
+    url: "/artigos/"
     btn_class: "btn--primary"
     btn_label: "Artigos"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=500&h=300&auto=format&fit=crop"
     alt: "Blog"
     title: "Blog"
     excerpt: "Últimas pulicações no Blog da Nutrição Popular."
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Blog"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: "https://images.unsplash.com/photo-1611077543693-a0194a16b034?q=80&w=500&h=300&auto=format&fit=crop"
     alt: "Sobre"
     title: "Sobre"
     excerpt: "Sobre a Nutrição Pupular"
