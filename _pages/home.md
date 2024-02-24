@@ -1,9 +1,10 @@
 layout: splash
 permalink: /
-hidden: true
+# hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: https://images.unsplash.com/photo-1488459716781-31db52582fe9
+  overlay_image: "https://images.unsplash.com/photo-1488459716781-31db52582fe9"
+  overlay_filter: "0.3"
 #  actions:
 #    - label: "<i class='fas fa-download'></i> Install now"
 #      url: "/docs/quick-start-guide/"
@@ -34,4 +35,12 @@ feature_row:
     btn_label: "Sobre"      
 ---
 
+{% include feature_row id="intro" type="center" %}
+
 {% include feature_row %}
+
+<!-- {% include feature_row id="feature_row2" type="left" %} -->
+
+<!-- {% include feature_row id="feature_row3" type="right" %} -->
+
+<!-- {% include feature_row id="feature_row4" type="center" %} -->
