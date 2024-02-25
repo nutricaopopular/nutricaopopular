@@ -15,5 +15,3 @@ header:
   teaser: https://images.unsplash.com/photo-1488459716781-31db52582fe9
 
 ---
-
-Listagem de textos na coleção `_textos`.
