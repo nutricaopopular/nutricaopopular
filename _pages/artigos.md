@@ -14,7 +14,7 @@ header:
   overlay_image: "https://images.unsplash.com/photo-1488459716781-31db52582fe9"
   overlay_filter: "0.3"
   overlay_color: "#000"
-  teaser: [https://upload.wikimedia.org/wikipedia/commons/f/f5/Buller%27s_Albatross_1.jpg](https://images.unsplash.com/photo-1488459716781-31db52582fe9)
+  teaser: https://images.unsplash.com/photo-1488459716781-31db52582fe9
   
 # excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 # intro: 
