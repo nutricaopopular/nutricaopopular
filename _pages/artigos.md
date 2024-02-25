@@ -7,7 +7,7 @@ collection: artigos
 classes: wide
 entries_layout: grid
 permalink: /artigos/
-author_profile: false
+author_profile: true
 author: Editor
 header:
   overlay_color: "#5e616c"
