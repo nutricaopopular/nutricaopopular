@@ -46,9 +46,9 @@ title_separator          : "-"
 subtitle                 : "nutrição sem complicação!" # site tagline that appears below site title in masthead
 name                     : "Gyslane Santos"
 description              : "nutrição sem complicação!"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nutricaopopular.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : nutricaopopular/nutricaopopular.github.io GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -149,12 +149,12 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-   # recursos
+   # _recursos
   - scope:
       path: ""
       type: recursos
@@ -184,6 +184,16 @@ defaults:
       author_profile: false
       share: false
       related: false
+   # receitas
+  - scope:
+      path: ""
+      type: receitas
+    values:
+      layout: splash
+      classes: wide
+      author_profile: false
+      share: false
+      related: false
 
 category_archive:
   type: liquid
@@ -202,5 +212,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   recursos:
+    output: true
+    permalink: /:collection/:path/
+  receitas:
     output: true
     permalink: /:collection/:path/
