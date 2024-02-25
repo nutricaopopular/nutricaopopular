@@ -5,9 +5,9 @@ layout: collection
 # layout: splash
 collection: recursos
 classes: wide
-entries_layout: grid
+entries_layout: list
 permalink: /recursos/
-author_profile: false
+author_profile: true
 author: Editor
 header:
   overlay_color: "#5e616c"
